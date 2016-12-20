@@ -1,1 +1,10 @@
-# Data_Analytics_with_Hadoop
+Data Analytics with Hadoop
+==========
+
+This is the example code that accompanies Data Analytics with Hadoop by Benjamin Bengfort and Jenny Kim (9781491913703). 
+
+Click the Download Zip button to the right to download example code.
+
+Visit the catalog page [here](http://shop.oreilly.com/product/0636920035275.do).
+
+See an error? Report it [here](http://oreilly.com/catalog/errata.csp?isbn=0636920035275), or simply fork and send us a pull request.
